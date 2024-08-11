@@ -36,7 +36,7 @@ function UpdatePassword() {
     console.log(formData)
 
 
-    axios.post("http://localhost:3000/api/user/reset-password",{password, confirmPassword, token})
+    axios.post("https://chatwebapp-8sjg.onrender.com/api/user/reset-password",{password, confirmPassword, token})
         
         
         .then((response) => {

@@ -31,7 +31,7 @@ const SignUp = () => {
             confirmPassword: data.confirmpassword
         };
 
-        await axios.post("http://localhost:3000/api/user/signup", userinfo)
+        await axios.post("https://chatwebapp-8sjg.onrender.com/api/user/signup", userinfo)
             .then((response) => {
                 if (response.data) {
                     toast.success("Signup successful");

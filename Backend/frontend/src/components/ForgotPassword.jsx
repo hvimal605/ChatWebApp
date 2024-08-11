@@ -18,7 +18,7 @@ const ForgotPassword = () => {
         e.preventDefault();
         console.log(email)
 
-        axios.post("http://localhost:3000/api/user/resetPasswordToken",{email})
+        axios.post("https://chatwebapp-8sjg.onrender.com/api/user/resetPasswordToken",{email})
         
         
         .then((response) => {

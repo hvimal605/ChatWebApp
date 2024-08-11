@@ -21,7 +21,7 @@ const Login = () => {
             password: data.password,
         };
        
-        axios.post("http://localhost:3000/api/user/login", userinfo, {
+        axios.post("https://chatwebapp-8sjg.onrender.com/api/user/login", userinfo, {
             withCredentials: true // Allows sending and receiving cookies
         })
         .then((response) => {
