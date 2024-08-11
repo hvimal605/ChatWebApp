@@ -11,7 +11,7 @@ const Logout = () => {
     setLoading(true)
     try{ 
 
-     const res = await axios.post("http://localhost:3000/api/user/logout");
+     const res = await axios.post("https://chatwebapp-8sjg.onrender.com/api/user/logout");
      localStorage.removeItem("Chatapp")
      Cookies.remove("harshcookie")
      setLoading(false)

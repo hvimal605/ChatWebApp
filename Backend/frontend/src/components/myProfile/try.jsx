@@ -23,7 +23,7 @@ const Settings = () => {
     const onSubmit = async (data) => {
         const toastId = toast.loading("Loading...");
         try {
-            const response = await axios.put("http://localhost:3000/api/user/updateProfile", { Id, ...data }); 
+            const response = await axios.put("https://chatwebapp-8sjg.onrender.com/api/user/updateProfile", { Id, ...data }); 
             if (response.data.success) {
                 toast.success(response.data.message);
             } else {
