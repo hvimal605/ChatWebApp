@@ -34,7 +34,7 @@ exports.resetPasswordToken = async (req, res) => {
             },
             { new: true })
         //create url
-        const url = `http://localhost:5173/update-password/${token}`
+        const url = `https://chatwebapp-8sjg.onrender.com/update-password/${token}`
         //send mail conataining the url
         await mailSender(email, 'Password Reset Link', `Password Reset Link : ${url}`)
 
