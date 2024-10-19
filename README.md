@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Chat Website(HarshSpark)</h1>
 
-<p align="center"><img src="" alt="project-image"></p>
+
 
 <p id="description">User-Friendly Interface: A visually appealing and intuitive UI that allows users to easily navigate between chat rooms conversations and settings. HarshSpark follows modern design principles ensuring the interface is clean responsive and easy to use on both desktop and mobile devices. Real-Time Messaging: Instant messaging between users with the ability to share text images and emojis. HarshSpark ensures smooth real-time conversations without delays.User Profiles and Status: Users can create personal profiles update their status and see who is online. This feature adds a personal touch to each interaction helping people to connect more meaningfully.</p>
 
