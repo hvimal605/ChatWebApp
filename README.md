@@ -2,17 +2,21 @@
 
 
 
-<p id="definition">
-  HarshSpark is a chat website that allows users to communicate in real-time through text, images, and emojis. It features a user-friendly interface, enabling easy navigation between chat rooms and personal profiles, making it a great platform for connecting with friends and family.
-</p>
+# HarshSpark
 
-<p id="description">
-  **User-Friendly Interface:** HarshSpark has a clean and attractive design that makes it easy for users to find their way around chat rooms, conversations, and settings. It works well on both computers and mobile devices.
-  <br><br>
-  **Real-Time Messaging:** Users can send messages to each other instantly, including text, images, and emojis. HarshSpark ensures that conversations happen smoothly and without delays.
-  <br><br>
-  **User Profiles and Status:** Users can create their own profiles, update their status, and see who is online. This feature helps users connect with each other in a more personal way.
-</p>
+HarshSpark is a chat website that allows users to communicate in real-time through text, images, and emojis. It features a user-friendly interface, enabling easy navigation between chat rooms and personal profiles, making it a great platform for connecting with friends and family.
+
+## Description
+
+**User-Friendly Interface:**  
+HarshSpark has a clean and attractive design that makes it easy for users to find their way around chat rooms, conversations, and settings. It works well on both computers and mobile devices.
+
+**Real-Time Messaging:**  
+Users can send messages to each other instantly, including text, images, and emojis. HarshSpark ensures that conversations happen smoothly and without delays.
+
+**User Profiles and Status:**  
+Users can create their own profiles, update their status, and see who is online. This feature helps users connect with each other in a more personal way.
+
 
 
 <h2>🚀 Demo</h2>
